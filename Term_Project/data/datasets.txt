@@ -1,0 +1,11 @@
+Tableau Community
+Kaggle Datasets
+Data.Gov
+Science.Gov
+Data.Gov.UK
+NORC
+European Social Survey
+API List
+PrommableWeb
+Public APIs
+OpenWeatherMap
